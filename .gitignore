@@ -58,3 +58,8 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+UnityTest/Library/Artifacts/00/000139ff0c3061aaafbfc1d7f8fb85c0
+
+UnityTest/Library/*
+UnityTest/Logs/Packages-Update.log
+UnityTest/.vsconfig
